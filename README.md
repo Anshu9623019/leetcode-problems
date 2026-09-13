@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshu9623019/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
