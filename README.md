@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Anshu9623019/leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anshu9623019/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Anshu9623019/leetcode-problems/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Anshu9623019/leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anshu9623019/leetcode-problems/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
