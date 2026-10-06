@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anshu9623019/leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anshu9623019/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Anshu9623019/leetcode-problems/tree/master/0056-merge-intervals) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Anshu9623019/leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anshu9623019/leetcode-problems/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Anshu9623019/leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
