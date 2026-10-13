@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,5 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Anshu9623019/leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
