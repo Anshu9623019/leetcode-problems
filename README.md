@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anshu9623019/leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anshu9623019/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Anshu9623019/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Anshu9623019/leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
