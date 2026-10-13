@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
