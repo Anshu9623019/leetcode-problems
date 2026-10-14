@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anshu9623019/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anshu9623019/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anshu9623019/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
