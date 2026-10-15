@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Anshu9623019/leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anshu9623019/leetcode-problems/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anshu9623019/leetcode-problems/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anshu9623019/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
