@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/Anshu9623019/leetcode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anshu9623019/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Anshu9623019/leetcode-problems/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anshu9623019/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anshu9623019/leetcode-problems/tree/master/0067-add-binary) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Trie
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Anshu9623019/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
