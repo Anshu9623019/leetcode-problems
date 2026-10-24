@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Anshu9623019/leetcode-problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0767-reorganize-string](https://github.com/Anshu9623019/leetcode-problems/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Anshu9623019/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu9623019/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/Anshu9623019/leetcode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Anshu9623019/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0767-reorganize-string](https://github.com/Anshu9623019/leetcode-problems/tree/master/0767-reorganize-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Anshu9623019/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anshu9623019/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/Anshu9623019/leetcode-problems/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quicksort
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/Anshu9623019/leetcode-problems/tree/master/0767-reorganize-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshu9623019/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Anshu9623019/leetcode-problems/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/Anshu9623019/leetcode-problems/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshu9623019/leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
@@ -110,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anshu9623019/leetcode-problems/tree/master/0067-add-binary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Anshu9623019/leetcode-problems/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
